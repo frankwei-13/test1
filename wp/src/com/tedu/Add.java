@@ -3,6 +3,7 @@ package com.tedu;
 public class Add {
 	public static void main(String[] args) {
 		System.out.println("helloworld!");
-		System.out.println("ÄãºÃ!");
+		System.out.println("ä¸–ç•Œç¬¬ä¸€ç­‰!");
+		//2222222222
 	}
 }
